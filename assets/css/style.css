@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;}
+
+table,
+td, 
+th{
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #fff;
+    color: #000;
+}
+
+ol{list-style-type:decimal ;} 
+
+img{padding-left: 70%;}
+p.justify{text-align: justify;}
+
+table.border{
+    border-collapse: collapse;
+  }
+  
+span.rouge{color: red;}
+span.bleu{color: blue;}
+span.vert{color: green;}
